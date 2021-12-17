@@ -1,2 +1,2 @@
 # APT-UBCENABLE
-An Adaptable, portable table for wheelchair users.
+An adaptable, portable table for wheelchair users.
