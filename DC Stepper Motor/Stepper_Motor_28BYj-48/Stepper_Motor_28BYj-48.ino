@@ -1,4 +1,5 @@
 //Includes the Arduino Stepper Library
+//Trial comment
 #include <Stepper.h>
 
 // Defines the number of steps per rotation
