@@ -4,7 +4,7 @@ A low cost EMG detection system to detect postural strain on the upper back for 
 Background on project:
 Simon Cox Video Presentation 2021: https://youtu.be/jUxSHcz4N0U
 
-Goals for 2022: 
+Goals for 2022-23: 
 
 1. Get more consistent readings (both biceps and back)
     - Implement notch filter
