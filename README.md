@@ -22,3 +22,10 @@ Goals for 2022:
     - Implement autoshutdown/wake-up on microcontroller to save power
     - Improve power supply to circuit
     
+4. Enclosure
+    
+    - case for breadboard prototype ongoing
+    - ease of electrode attachment system
+
+5. Testing with client
+    
