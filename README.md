@@ -29,3 +29,4 @@ Goals for 2022-23:
 
 5. Testing with client
     
+# ENABLE_EMG_Biodeedback_Device
